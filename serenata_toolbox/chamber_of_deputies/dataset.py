@@ -115,6 +115,7 @@ class Dataset:
         data = pd.read_csv(csv_path,
                            encoding='utf-8',
                            delimiter=";",
+                           decimal=",",
                            quoting=csv.QUOTE_NONE,
                            dtype={'ideDocumento': np.str,
                                   'idecadastro': np.str,
