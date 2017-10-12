@@ -1,5 +1,7 @@
 This is just a template to help you make your point clear with this PR. :)
 
+First things first! Do not forget that we **always** need a version bump. More explanation on [README](https://github.com/datasciencebr/serenata-toolbox/blob/master/README.rst)
+
 **What is the purpose of this Pull Request?**
 __Tell here how this can help this project__
 
